@@ -41,7 +41,7 @@ const {createProduct} = useProductStore();
       <VStack
       spacing={8}>
         <Heading as={"h1"} size={"2xl"} textAlign={"center"} mb={8}>
-          Create New Product
+          Create New Todo
         </Heading>
 
     <Box
